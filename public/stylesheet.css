@@ -67,7 +67,6 @@ h4, h5 {
   color: #888;
 }
 
-/*-------  ここからheader  --------*/
 header {
   height: 50px;
   position: fixed;
@@ -112,9 +111,7 @@ header {
   color: #0dc0c0;
   transition: color .3s;
 }
-/*-------  ここまでheader  --------*/
 
-/*-------  ここからtop content  --------*/
 .top-section {
   margin: 0 auto;
   text-align: center;
@@ -189,9 +186,6 @@ header {
   display: none;
 }
 
-/*-------  ここまでtop content  --------*/
-
-/*-------  ここからfeatures  --------*/
 .features-section-top {
   text-align: center;
   height: 376px;
@@ -209,9 +203,6 @@ header {
   margin-bottom: 60px;
 }
 
-/*-------  ここまでfeatures  --------*/
-
-/*-------  ここからmentor  --------*/
 .mentors-section {
   text-align: center;
   padding-bottom: 60px;
@@ -245,9 +236,6 @@ header {
   background-color: #869791;
 }
 
-/*-------  ここまでmentor  --------*/
-
-/*-------  ここからcolumn  --------*/
 .columns-section {
   text-align: center;
   padding-bottom: 30px;
@@ -321,11 +309,7 @@ header {
   font-size: 17px;
   font-weight: 600;
 }
-/*-------  ここまでcolumn  --------*/
 
-
-
-/*-------  ここからcontact  --------*/
 .contact-section {
   background: url("images/backgrounds/contact.jpg");
   background-size: cover;
@@ -410,11 +394,6 @@ textarea {
   height: 20px;
 }
 
-/*-------  ここまでcontact  --------*/
-
-
-
-/*-------  ここからsocial  --------*/
 .social-section {
   text-align: center;
   padding-bottom: 50px;
@@ -433,14 +412,9 @@ textarea {
   transition: all .3s;
 }
 
-/*-------  ここまでsocial  --------*/
-
-
-/*-------  ここからfooter  --------*/
 footer {
   text-align: center;
   padding: 39px 0 36px;
   background: #222;
   color: #999;
 }
-/*-------  ここまでfooter  --------*/
