@@ -28,24 +28,16 @@ a:hover {
   text-decoration: none;
 }
 
-h2, h3, h4, h5, h6 {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  font-weight: 400;
-  font-weight: bold;
-}
-
-h4, h5 {
-  color: #444;
-  font-size: 18px;
-}
-
 .container {
   width: 1170px;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+}
+
+.jumbotron {
+  padding: 0px;
 }
 
 .section-title {
@@ -89,8 +81,6 @@ header {
   font-size: 22px;
   font-family: 'Dosis', sans-serif;
 }
-
-.header-menu {}
 
 .header-menu-right {
   float: right;
@@ -152,7 +142,7 @@ header {
   line-height: 30px;
 }
 
-.top-section .top-button {
+.jumbotron .top-button {
   margin-top: 40px;
   margin-bottom: 40px;
 }
@@ -186,23 +176,6 @@ header {
   display: none;
 }
 
-.features-section-top {
-  text-align: center;
-  height: 376px;
-}
-
-.features-section-bottom {
-  padding-top: 120px;
-}
-
-.features-box {
-  display: inline-block;
-  vertical-align: top;
-  width: 40%;
-  padding-left: 65px;
-  margin-bottom: 60px;
-}
-
 .mentors-section {
   text-align: center;
   padding-bottom: 60px;
@@ -217,8 +190,6 @@ header {
   margin: 0 auto;
   margin-bottom: 80px;
 }
-
-
 
 .mentor-image {
   width: 200px;
